@@ -33,7 +33,8 @@
 			"dist/credentials/CheckinApi.credentials.js"
 		],
 		"nodes": [
-			"dist/nodes/Checkin/Checkin.node.js"
+			"dist/nodes/Checkin/Checkin.node.js",
+			"dist/nodes/Checkin/CheckinTrigger.node.js"
 		]
 	},
 	"devDependencies": {
